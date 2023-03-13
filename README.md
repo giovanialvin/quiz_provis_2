@@ -9,3 +9,7 @@ NIM   : 2000360
 
 Result : <br/>
 ![image](https://user-images.githubusercontent.com/99602640/224591389-2a010ded-2599-4bdb-b0cc-6196d0fdac77.png)
+
+
+Bonus : <br/>
+![image](https://user-images.githubusercontent.com/99602640/224594613-2643d766-7f0a-4922-a0f9-dc67b6b9d822.png)
